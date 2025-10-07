@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+venv/
+env/
+.env
+
+# Data and Logs
+*.csv # Since the Kaggle API downloads the data, you might want to ignore the final dataset files.
+*.log
+data/
+input/
+
+# Jupyter/IPython Notebook files
+.ipynb_checkpoints
+
+# IDE-specific files
+.idea/
+*.swp
+*~
