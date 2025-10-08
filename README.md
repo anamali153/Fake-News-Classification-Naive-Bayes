@@ -17,8 +17,8 @@ You need Python 3.x installed. The required libraries are listed in the `require
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/repo-name.git](https://github.com/your-username/repo-name.git)
-    cd repo-name
+  git clone [https://github.com/anamali153/Fake-News-Classification-Naive-Bayes.git](https://github.com/anamali153/Fake-News-Classification-Naive-Bayes.git)
+    cd Fake-News-Classification-Naive-Bayes
     ```
 
 2.  **Create and activate a virtual environment (optional but recommended):**
